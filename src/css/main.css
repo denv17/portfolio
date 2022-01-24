@@ -1,0 +1,68 @@
+@font-face {
+  font-family: "Canela";
+  src: url("../assets/fonts/Canela-Regular.eot");
+  src:
+    url("../assets/fonts/Canela-Regular.eot?#iefix") format("embedded-opentype"),
+    url("../assets/fonts/Canela-Regular.svg") format("svg"),
+    url("../assets/fonts/Canela-Regular.ttf") format("truetype"),
+    url("../assets/fonts/Canela-Regular.woff") format("woff"),
+    url("../assets/fonts/Canela-Regular.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Canela";
+  src: url("../assets/fonts/Canela-Light.eot");
+  src:
+    url("../assets/fonts/Canela-Light.eot?#iefix") format("embedded-opentype"),
+    url("../assets/fonts/Canela-Light.svg") format("svg"),
+    url("../assets/fonts/Canela-Light.ttf") format("truetype"),
+    url("../assets/fonts/Canela-Light.woff") format("woff"),
+    url("../assets/fonts/Canela-Light.woff2") format("woff2");
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Gilmer";
+  src: url("../assets/fonts/Gilmer-Light.eot");
+  src:
+    url("../assets/fonts/Gilmer-Light.eot?#iefix") format("embedded-opentype"),
+    url("../assets/fonts/Gilmer-Light.svg") format("svg"),
+    url("../assets/fonts/Gilmer-Light.ttf") format("truetype"),
+    url("../assets/fonts/Gilmer-Light.woff") format("woff"),
+    url("../assets/fonts/Gilmer-Light.woff2") format("woff2");
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Gilmer";
+  src: url("../assets/fonts/Gilmer-Regular.eot");
+  src:
+    url("../assets/fonts/Gilmer-Regular.eot?#iefix") format("embedded-opentype"),
+    url("../assets/fonts/Gilmer-Regular.svg") format("svg"),
+    url("../assets/fonts/Gilmer-Regular.ttf") format("truetype"),
+    url("../assets/fonts/Gilmer-Regular.woff") format("woff"),
+    url("../assets/fonts/Gilmer-Regular.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Gilmer";
+  src: url("../assets/fonts/Gilmer-Bold.eot");
+  src:
+    url("../assets/fonts/Gilmer-Bold.eot?#iefix") format("embedded-opentype"),
+    url("../assets/fonts/Gilmer-Bold.svg") format("svg"),
+    url("../assets/fonts/Gilmer-Bold.ttf") format("truetype"),
+    url("../assets/fonts/Gilmer-Bold.woff") format("woff"),
+    url("../assets/fonts/Gilmer-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
